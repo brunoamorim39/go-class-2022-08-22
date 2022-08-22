@@ -1,1 +1,1 @@
-# go-class-2022-08-22
+# Go Class August 22, 2022
